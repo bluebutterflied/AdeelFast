@@ -1,0 +1,12 @@
+Q1: Capital of Pakistan is:
+Quetta
+Islamabad
+Karachi
+Lahore
+2
+Q1:New Zealand Prime minister is:
+Helen Clark
+Angela Merkel
+Clare Curran
+Jacinda Ardern
+4

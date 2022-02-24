@@ -1,0 +1,18 @@
+Serial_No	Roll_No	Name	F.Sc	Entry_Test
+1	19I-0777	Zaidan Javed	777	70
+2	19I-0789	Noman Hussain	734	80
+3	19I-0860	Shahmeer Ali	843	88
+4	19I-0884	Fatima Noor	732	54
+5	20I-1025	adeel akhtar	1000	1122
+6	20I-1003	Maryam Waheed	712	32
+7	20I-1004	Zain Ali	632	15
+8	20I-1015	Hussain Ali	658	67
+9	20I-1034	Ahmad Hadi	734	55
+10	20I-1041	Umain Ul	811	98
+11	20I-1054	Abdul Rehman	888	45
+12	20I=1045	obaid ullah	1233	1234
+13	20I-1057	Junaid Akhtar	576	67
+14	20I-1903	Faizan Shahid	789	34
+15	20I-1904	Umair Shahzad	567	55
+16	20I-1909	Zain Ul	123	67
+17	20I-1915	Ali Hassan	300	45

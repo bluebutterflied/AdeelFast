@@ -1,0 +1,7 @@
+1 X B C D
+2 A X C D
+3 A B C D
+4 X B X D
+5 X B C D
+6 X B C D
+7 X B C D
